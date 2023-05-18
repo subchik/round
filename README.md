@@ -30,9 +30,6 @@ To use this bot, you need to follow these steps:
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request. Let's make this bot even better together.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as per the terms of the license.
 
 ## Acknowledgements
 
